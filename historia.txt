@@ -5,4 +5,6 @@ Mi profesor es Freddy Vega, el CEO de PLatzi y es muy nerd, pero muy bueno.
 
 De paso tambien aprendo a navegar la terminal de linux y estoy usando WSL ya que en el entorno de desarrollo es mejor usar Linux que Windows.
 
-Esta historia continuara...
+Freddy dijo que debo practicar así que estoy haciendo mas cambios al archivo para luego poder jugar con los comandos desde la terminal.
+
+Continuara...
