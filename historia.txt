@@ -1,7 +1,8 @@
-Hola esta es una historia de Sebastian aprendiendo en Plazti.
+Hola,
 
-Estoy aprendiendo Git y Github en Platzi con Freddy.
+Esta es la historia de Sebastian aprendiendo acerca de Git y GutHub en Plazti.
+Mi profesor es Freddy Vega, el CEO de PLatzi y es muy nerd, pero muy bueno.
 
-De paso tambien aprendo a navegar la terminal de linux.
+De paso tambien aprendo a navegar la terminal de linux y estoy usando WSL ya que en el entorno de desarrollo es mejor usar Linux que Windows.
 
-Ahora si, este es el fin.
+Esta historia continuara...
