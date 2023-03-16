@@ -2,4 +2,6 @@ Hola esta es una historia de Sebastian aprendiendo en Plazti.
 
 Estoy aprendiendo Git y Github en Platzi con Freddy.
 
-Este es el fin.
+De paso tambien aprendo a navegar la terminal de linux.
+
+Ahora si, este es el fin.
