@@ -7,4 +7,5 @@ De paso tambien aprendo a navegar la terminal de linux y estoy usando WSL ya que
 
 Freddy dijo que debo practicar así que estoy haciendo mas cambios al archivo para luego poder jugar con los comandos desde la terminal.
 
-Continuara...
+ESTOS CAMBIOS CON MAYUSCULA SERAN HECHOS EN LA RAMA DEVELOPING PARA VER COMO FUNICONA HACER CAMBIOS EN PARALELO DESDE ESTA OTRA RAMA.
+
