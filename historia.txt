@@ -1,5 +1,5 @@
-Hola esta es una historia de prueba
+Hola esta es una historia de Sebastian aprendiendo en Plazti.
 
-Estoy aprendiendo Git y Github en Platzi.
+Estoy aprendiendo Git y Github en Platzi con Freddy.
 
-Fin.
+Este es el fin.
